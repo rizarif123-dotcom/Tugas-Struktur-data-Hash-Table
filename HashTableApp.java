@@ -133,7 +133,7 @@ public class HashTableApp {
         ht.display();
 
         // Uji Coba: Pencarian (search)
-        System.out.println("\nMencari kunci 15: " + ht.search(15)); // Output: Andi
+        System.out.println("\nMencari kunci 15: " + ht.search(15)); // Output: Beras B
         System.out.println("Mencari kunci 99: " + ht.search(99));  // Output: Tidak ditemukan
 
         // Uji Coba: Penghapusan (remove)
